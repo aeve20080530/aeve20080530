@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hessa
 
-<!--
-**aeve20080530/aeve20080530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught in the fundamentals of financial modeling, data analysis, and quantitative tools.  
+Building small projects to better understand markets, risk, and valuation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools & Skills
+
+- **Python** — pandas, NumPy, matplotlib, yfinance  
+- **Modeling** — DCF, portfolio allocation, time series (basic)  
+- **Math** — Probability, linear algebra, calculus  
+- **Other** — Excel/Sheets, LaTeX, SQL (beginner)
+
+---
+
+## Projects
+
+- 📊 **Valuation Models** – Scripts to estimate intrinsic value using DCF and relative metrics  
+- 📉 **Market Analysis** – Basic tools for plotting and analyzing historical data  
+---
+
+## Contact
+
+- Email: aeve20080530@gmail.com
+- LinkedIn: https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BbG%2Fpw0GiTfmsruBJv3%2FRRg%3D%3D
+---
+
+Learning quietly, building publicly.
