@@ -1,7 +1,7 @@
 # Hi, i'm hissah<br>
 
-<br>Self-taught in financial modeling and market analysis.  <br>Building tools, writing models, learning by doing.<br>---<br><br>## Tools & Skills<br><br>- **Python** — pandas, NumPy, matplotlib, yfinance  <br>- **Modeling** — DCF, portfolio allocation, time series (basic)  <br>- **Math** — Probability, linear algebra, calculus  <br>- **Other** — Excel/Sheets, LaTeX, SQL (beginner)<br><br>---<br><br>## Projects<br><br>- coming soon... – Basic tools for plotting and analyzing historical data  <br>---<br><br>## Contact<br><br>- Email: aeve20080530@gmail.com<br>- LinkedIn: https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BbG%2Fpw0GiTfmsruBJv3%2FRRg%3D%3D<br>---<br><br>Learning quietly, building publicly.<br>
-
+<br>Self-taught in financial modeling and market analysis.  <br>Building tools, writing models, learning by doing.<br>---<br><br> *Tools & Skills*<br><br>- **Python** — pandas, NumPy, matplotlib, yfinance  <br>- **Modeling** — DCF, portfolio allocation, time series (basic)  <br>- **Math** — Probability, linear algebra, calculus  <br>- **Other** — Excel/Sheets, LaTeX, SQL (beginner)<br><br>---<br><br>*Projects* <br> coming soon <br> <br>
+<br><br>Learning quietly, building publicly.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BCFW52h3RTIOCPqpvUlBEEg%3D%3D) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aeve20080530@gmail.com) 
