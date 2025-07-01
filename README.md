@@ -1,8 +1,7 @@
-# Hessa
+# Hi, i'm hissah
 
-Self-taught in the fundamentals of financial modeling, data analysis, and quantitative tools.  
-Building small projects to better understand markets, risk, and valuation.
-
+Self-taught in financial modeling and market analysis.  
+Building tools, writing models, learning by doing.
 ---
 
 ## Tools & Skills
